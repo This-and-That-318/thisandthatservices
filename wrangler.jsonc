@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "thisandthatservices",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "thisandthat",
+      "database_id": "ac5a91a1-e9f5-4c96-a8c9-91e5c2f2cb82"
+    }
+  ]
+}
